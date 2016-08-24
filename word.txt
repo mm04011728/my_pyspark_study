@@ -1,0 +1,78 @@
+Apache Spark is a fast and general-purpose cluster computing system  It provides high-level APIs in Java  Scala  Python and R  and an optimized engine that supports general execution graphs  It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing  MLlib for machine learning  GraphX for graph processing  and Spark Streaming 
+Spark comes with several sample programs  Scala  Java  Python and R examples are in the examples/src/main directory  To run one of the Java or Scala sample programs  use bin/run-example <class> [params] in the top-level Spark directory  (Behind the scenes  this invokes the more general spark-submit script for launching applications)  For example 
+Configuration  customize Spark via its configuration system
+Monitoring  track the behavior of your applications
+Tuning Guide  best practices to optimize performance and memory use
+Job Scheduling  scheduling resources across and within Spark applications
+Security  Spark security support
+Hardware Provisioning  recommendations for cluster hardware
+Integration with other storage systems 
+OpenStack Swift
+Building Spark  build Spark using the Maven system
+Contributing to Spark
+Supplemental Projects  related third party Spark projects
+Apache Spark is a fast and general-purpose cluster computing system  It provides high-level APIs in Java  Scala  Python and R  and an optimized engine that supports general execution graphs  It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing  MLlib for machine learning  GraphX for graph processing  and Spark Streaming 
+Spark comes with several sample programs  Scala  Java  Python and R examples are in the examples/src/main directory  To run one of the Java or Scala sample programs  use bin/run-example <class> [params] in the top-level Spark directory  (Behind the scenes  this invokes the more general spark-submit script for launching applications)  For example 
+Configuration  customize Spark via its configuration system
+Monitoring  track the behavior of your applications
+Tuning Guide  best practices to optimize performance and memory use
+Job Scheduling  scheduling resources across and within Spark applications
+Security  Spark security support
+Hardware Provisioning  recommendations for cluster hardware
+Integration with other storage systems 
+OpenStack Swift
+Building Spark  build Spark using the Maven system
+Contributing to Spark
+Supplemental Projects  related third party Spark projects
+Apache Spark is a fast and general-purpose cluster computing system  It provides high-level APIs in Java  Scala  Python and R  and an optimized engine that supports general execution graphs  It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing  MLlib for machine learning  GraphX for graph processing  and Spark Streaming 
+Spark comes with several sample programs  Scala  Java  Python and R examples are in the examples/src/main directory  To run one of the Java or Scala sample programs  use bin/run-example <class> [params] in the top-level Spark directory  (Behind the scenes  this invokes the more general spark-submit script for launching applications)  For example 
+Configuration  customize Spark via its configuration system
+Monitoring  track the behavior of your applications
+Tuning Guide  best practices to optimize performance and memory use
+Job Scheduling  scheduling resources across and within Spark applications
+Security  Spark security support
+Hardware Provisioning  recommendations for cluster hardware
+Integration with other storage systems 
+OpenStack Swift
+Building Spark  build Spark using the Maven system
+Contributing to Spark
+Supplemental Projects  related third party Spark projects
+Apache Spark is a fast and general-purpose cluster computing system  It provides high-level APIs in Java  Scala  Python and R  and an optimized engine that supports general execution graphs  It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing  MLlib for machine learning  GraphX for graph processing  and Spark Streaming 
+Spark comes with several sample programs  Scala  Java  Python and R examples are in the examples/src/main directory  To run one of the Java or Scala sample programs  use bin/run-example <class> [params] in the top-level Spark directory  (Behind the scenes  this invokes the more general spark-submit script for launching applications)  For example 
+Configuration  customize Spark via its configuration system
+Monitoring  track the behavior of your applications
+Tuning Guide  best practices to optimize performance and memory use
+Job Scheduling  scheduling resources across and within Spark applications
+Security  Spark security support
+Hardware Provisioning  recommendations for cluster hardware
+Integration with other storage systems 
+OpenStack Swift
+Building Spark  build Spark using the Maven system
+Contributing to Spark
+Supplemental Projects  related third party Spark projects
+Apache Spark is a fast and general-purpose cluster computing system  It provides high-level APIs in Java  Scala  Python and R  and an optimized engine that supports general execution graphs  It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing  MLlib for machine learning  GraphX for graph processing  and Spark Streaming 
+Spark comes with several sample programs  Scala  Java  Python and R examples are in the examples/src/main directory  To run one of the Java or Scala sample programs  use bin/run-example <class> [params] in the top-level Spark directory  (Behind the scenes  this invokes the more general spark-submit script for launching applications)  For example 
+Configuration  customize Spark via its configuration system
+Monitoring  track the behavior of your applications
+Tuning Guide  best practices to optimize performance and memory use
+Job Scheduling  scheduling resources across and within Spark applications
+Security  Spark security support
+Hardware Provisioning  recommendations for cluster hardware
+Integration with other storage systems 
+OpenStack Swift
+Building Spark  build Spark using the Maven system
+Contributing to Spark
+Supplemental Projects  related third party Spark projects
+Apache Spark is a fast and general-purpose cluster computing system  It provides high-level APIs in Java  Scala  Python and R  and an optimized engine that supports general execution graphs  It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing  MLlib for machine learning  GraphX for graph processing  and Spark Streaming 
+Spark comes with several sample programs  Scala  Java  Python and R examples are in the examples/src/main directory  To run one of the Java or Scala sample programs  use bin/run-example <class> [params] in the top-level Spark directory  (Behind the scenes  this invokes the more general spark-submit script for launching applications)  For example 
+Configuration  customize Spark via its configuration system
+Monitoring  track the behavior of your applications
+Tuning Guide  best practices to optimize performance and memory use
+Job Scheduling  scheduling resources across and within Spark applications
+Security  Spark security support
+Hardware Provisioning  recommendations for cluster hardware
+Integration with other storage systems 
+OpenStack Swift
+Building Spark  build Spark using the Maven system
+Contributing to Spark
+Supplemental Projects  related third party Spark projects
